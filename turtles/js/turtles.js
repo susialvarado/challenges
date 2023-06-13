@@ -10,7 +10,7 @@ while (preguntas < 3) {
     
     animal = prompt("¿Cuál es tu animal favorito?");
 
-    if (animal.toLowerCase() = tortuga) {
+    if (animal.toLowerCase() = "tortuga") {
         alert("También me gustan las tortugas!");
         preguntas = preguntas +1
     } else {
